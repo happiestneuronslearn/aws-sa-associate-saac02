@@ -1,3 +1,5 @@
+Credit goes to https://www.linkedin.com/in/adriancantrill/
+
 # aws-sa-associate-saac02
 Course Files for AWS Certified Solutions Architect Certification Course (SAAC02) - Happiest Neurons Learn
 
